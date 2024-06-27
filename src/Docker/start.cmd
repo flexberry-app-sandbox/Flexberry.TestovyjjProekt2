@@ -1,0 +1,1 @@
+docker-compose -p testovyjj_proekt up -d

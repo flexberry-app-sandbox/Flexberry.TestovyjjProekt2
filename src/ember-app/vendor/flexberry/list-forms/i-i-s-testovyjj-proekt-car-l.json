@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-testovyjj-proekt-car-e",
+  "editForm": "i-i-s-testovyjj-proekt-car-e",
+  "external": false,
+  "caption": "Car",
+  "name": "IISTestovyjj_proektCarL",
+  "className": "CarL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-testovyjj-proekt-car",
+      "modelProjection": "CarL"
+    }
+  ]
+}

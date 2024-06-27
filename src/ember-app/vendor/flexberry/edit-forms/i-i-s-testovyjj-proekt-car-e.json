@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Driver",
+      "projection": "DriverL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Car",
+  "name": "IISTestovyjj_proektCarE",
+  "className": "CarE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-testovyjj-proekt-car",
+      "modelProjection": "CarE"
+    }
+  ]
+}

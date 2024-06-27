@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Testovyjj_proekt",
+  "applicationTitle": "Testovyjj_proekt",
+  "items": [
+    {
+      "link": null,
+      "menuName": "testovyjj-proekt",
+      "caption": "Testovyjj_proekt",
+      "title": "Testovyjj_proekt",
+      "children": [
+        {
+          "link": "i-i-s-testovyjj-proekt-car-l",
+          "menuName": null,
+          "caption": "Car",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-testovyjj-proekt-brand-l",
+          "menuName": null,
+          "caption": "Brand",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-testovyjj-proekt-driver-l",
+          "menuName": null,
+          "caption": "Driver",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Driver",
+  "name": "IISTestovyjj_proektDriverE",
+  "className": "DriverE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-testovyjj-proekt-driver",
+      "modelProjection": "DriverE"
+    }
+  ]
+}
